@@ -1,0 +1,2 @@
+# PowerAlarm
+clock,gas alarm
